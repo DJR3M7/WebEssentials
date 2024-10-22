@@ -1,0 +1,12 @@
+.hoofd  {
+    color: red !important;
+}
+
+td {
+    border: 1px solid black !important;
+}
+
+table {
+    border-collapse: collapse;
+}
+
